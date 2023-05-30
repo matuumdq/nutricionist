@@ -88,9 +88,9 @@ const Header = () => {
 				/>
 				<a href="/" onClick={() => setNav(false)}>
 					<img
-						src=""
+						src="https://i.pinimg.com/564x/e0/9b/5e/e09b5edb47e4475f93a8c59fee1a8456.jpg"
 						alt="nutricionist"
-						className="h-32 w-auto mx-auto mt-4"
+						className="h-32 w-auto mx-auto mt-4 rounded-full"
 					/>
 				</a>
 				<nav>
