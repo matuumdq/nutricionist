@@ -5,7 +5,7 @@ const Presentation = () => {
 				<span className="block mb-2 text-moody-blue-50 italic">
 					Transforma tu salud a través de una nutrición personalizada
 				</span>
-				<h1 className="text-5xl font-extrabold">Valentina Ferrer</h1>
+				<h1 className="text-5xl font-extrabold">Erica Rausch</h1>
 				<p className="my-8">
 					<span className="font-medium ">Nutricionista. </span>
 					Especializada en nutricion deportiva.

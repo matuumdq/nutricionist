@@ -8,7 +8,7 @@ const Footer = () => {
 					href="#"
 					className="font-bold text-moody-blue-800 hover:text-moody-blue-200 ease-in duration-300"
 				>
-					Valentina Ferrer
+					Erica Rausch
 				</a>
 				<div className="flex space-x-2">
 					<a
