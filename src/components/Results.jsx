@@ -7,7 +7,7 @@ const Results = () => {
 	const opinions = [
 		{
 			quote: "Et, dignissimos obcaecati. Recusandae praesentium doloribus vitae? Rem unde atque mollitia!",
-			name: "Leroy",
+			name: "Cristina",
 			company: "CEO of Company",
 			imagen: "https://img.freepik.com/psd-gratis/3d-ilustracion-persona-gafas-sol_23-2149436180.jpg?w=740&t=st=1685458140~exp=1685458740~hmac=e35b60b52c9bd004c15dc1f6679f98f259c18f651a0d223e77c4e8d9405919bf",
 		},
@@ -19,13 +19,13 @@ const Results = () => {
 		},
 		{
 			quote: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit assumenda quia totam.",
-			name: "MrTeta",
-			company: "Atleta",
+			name: "Marta",
+			company: "Freelancer",
 			imagen: "https://img.freepik.com/psd-gratis/3d-ilustracion-persona-gafas_23-2149436185.jpg",
 		},
 		{
 			quote: "Et, dignissimos obcaecati. Recusandae praesentium doloribus vitae? Rem unde atque mollitia!",
-			name: "Denmigod",
+			name: "Demian",
 			company: "Enadrya CoFounder",
 			imagen: "https://img.freepik.com/psd-gratis/3d-ilustracion-persona-gafas_23-2149436189.jpg",
 		},
